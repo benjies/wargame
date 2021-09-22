@@ -1,24 +1,17 @@
-# flipxcard
+# War the Card Game: Simplified
 
-## Project setup
-```
-npm install
-```
+This is a simplified version of the card game War:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Click the screen to play your card
+- If your card is higher, collect both cards.
+- if a draw occurs, both players keep their cards
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Includes:
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Documented Javascript Code
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Introduction to Javascript DOM manipulation and Classes
+
+A project meant to help demonstrate classes and state in the DOM by a card game.
+
+View a live demo [here](#) hosted with Netlify.
